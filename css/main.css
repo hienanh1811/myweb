@@ -590,6 +590,7 @@ header {
   padding: 20px 10px;
   padding-top:4.5em;
   gap:20px;
+  padding-bottom: 5em;
 
   h2 {
     background-color: #ECE9E3;
@@ -1321,6 +1322,7 @@ iframe {
 .intro {
   width: 50%;
   height: 18em;
+  margin-bottom: 4em;
 }
 
 .introhaha{
