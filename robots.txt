@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.anhhtran.com/sitemap.xml
+Sitemap: https://anhhtran.com/sitemap.xml
